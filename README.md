@@ -5,11 +5,11 @@
 
 
 
-<p alingn="center"> This repository will include all my work and projects focused on objective and practical data analyses. Enjoy! </p>
+<p align="center"> This repository will include all my work and projects focused on objective and practical data analyses. Enjoy! </p>
 
 ##
 
-# Projects:
+# **Projects:**
 
 - Superstore  
 In this project, I am conducting a market study to evaluate a sales boom. The data is located in the folder in the file "Superstore.csv," collected from Kaggle. The aim of this project is a diagnostic analysis of this boom, and at the end, I apply a regression analysis to infer and determine the percentage change of the responsible variable.
