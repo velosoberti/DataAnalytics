@@ -26,30 +26,21 @@
 In this project, I am conducting a market study to evaluate a sales boom. The data is located in the folder in the file "Superstore.csv," collected from Kaggle. The aim of this project is a diagnostic analysis of this boom, and at the end, I apply a regression analysis to infer and determine the percentage change of the responsible variable.
 
 
-<style>
-a:hover {
-  background-color: #0056b3;
-  color: #ffffff;
-}
-</style>
-
-<a href="https://github.com/velosoberti/Data-Analytics-/tree/main/PROJETO%20-%20SUPERSTORE" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-  color: #fff;
-  background-color: #007bff;
-  border: 2px solid #800080;
-  border-radius: 5px;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.3s ease, color 0.3s ease;
-">
-  Click Here
-</a>
+<p align="center">
+  <a href="https://github.com/velosoberti/Data-Analytics-/tree/main/PROJETO%20-%20SUPERSTORE" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: 2px solid #800080;
+    border-radius: 5px;
+    text-decoration: none;
+  ">
+    Click Here
+  </a>
+</p>
 
 
 
