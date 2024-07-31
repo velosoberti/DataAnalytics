@@ -7,7 +7,7 @@
 
 <p alingn="center"> This repository will include all my work and projects focused on objective and practical data analyses. Enjoy! </p>
 
-
+##
 
 # Projects:
 
@@ -31,6 +31,8 @@ In this project, I am conducting a market study to evaluate a sales boom. The da
   </a>
 </p>
 
+#
+
 
 - Brazilian agricultural studies  
 The aim of this project is to analyze relationships and patterns in agricultural sector prices. The raw data is available and was sourced from Kaggle. In this study, it was important to address several questions such as:
@@ -53,6 +55,8 @@ The aim of this project is to analyze relationships and patterns in agricultural
 </p>
 
 
+#
+
 - Study on real estate prices in São Paulo. Where is it cheaper and why?
 This project aims to explore a bit about real estate prices in the state of São Paulo. As my first project, it is somewhat simpler but still yields significant results. The data is also available in the folder and was sourced from Kaggle.
 
@@ -73,6 +77,7 @@ This project aims to explore a bit about real estate prices in the state of São
   </a>
 </p>
 
+#
 
 - Study of Ibovespa stocks in Brazil.
 This project aims to explore a bit about real estate prices in the state of São Paulo. As my first project, it is somewhat simpler but still yields significant results. The data is also available in the folder and was sourced from Kaggle.
@@ -97,7 +102,7 @@ This project aims to explore a bit about real estate prices in the state of São
 
 
 
-
+##
 
 - 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
