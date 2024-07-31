@@ -25,6 +25,14 @@
 - Superstore  
 In this project, I am conducting a market study to evaluate a sales boom. The data is located in the folder in the file "Superstore.csv," collected from Kaggle. The aim of this project is a diagnostic analysis of this boom, and at the end, I apply a regression analysis to infer and determine the percentage change of the responsible variable.
 
+
+<style>
+a:hover {
+  background-color: #0056b3;
+  color: #ffffff;
+}
+</style>
+
 <a href="https://github.com/velosoberti/Data-Analytics-/tree/main/PROJETO%20-%20SUPERSTORE" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
@@ -43,12 +51,7 @@ In this project, I am conducting a market study to evaluate a sales boom. The da
   Click Here
 </a>
 
-<style>
-a:hover {
-  background-color: #0056b3;
-  color: #ffffff;
-}
-</style>
+
 
 
 <h3 align="left">Connect with me:</h3>
