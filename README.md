@@ -1,4 +1,5 @@
 # Projects Focused on Data Analysis
+
 <h1 align="center">Hi 👋 Nice to meet you!</h1>
 <h3 align="center">Welcome to my page!</h3>
 <h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
@@ -9,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" width="800" height="600" alt="GIF">
+  <img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" width="auto" height="auto" alt="GIF">
 </p>
 
 ##
