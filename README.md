@@ -32,17 +32,23 @@ In this project, I am conducting a market study to evaluate a sales boom. The da
   font-weight: bold;
   color: #fff;
   background-color: #007bff;
-  border: none;
+  border: 2px solid #800080;
   border-radius: 5px;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease;
 ">
   Click Here
 </a>
 
+<style>
+a:hover {
+  background-color: #0056b3;
+  color: #ffffff;
+}
+</style>
 
 
 <h3 align="left">Connect with me:</h3>
