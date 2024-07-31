@@ -13,8 +13,6 @@
 
 
 - Study of Ibovespa stocks in Brazil.
-   <div align="center">
-        <h1>Project Overview</h1>
         <p>The project aims to evaluate stocks in the IBOVESPA index. This project has four parts.</p>
         <p><strong>First:</strong> We start with data selection. The raw data from the IBOVESPA includes over 810 columns divided into categories such as "CLOSE_", "VOL_", "HURST_", "POWER_", "PROB_".</p>
         <p><strong>Next,</strong> we process this data. Since close values only appear after 10 AM, we need to remove values before this time.</p>
@@ -28,8 +26,6 @@
         </ul>
         <p>This categorization helps us use machine learning algorithms more effectively and enables probability calculations.</p>
         <p><strong>Finally,</strong> we perform data mining to determine the best day of the week for buying stocks. We then look for the strongest correlations and find that the probability of a stock price increase is most strongly associated with the values of Ind_C and Ind_V. We also explore clusters, associations, and develop KNN and Decision Tree models to predict whether to buy or not, and a simple regression to forecast the probability of a stock price increase based on the most recent price.</p>
-    </div>
-
 
 <p align="center">
   <a href="https://github.com/velosoberti/Data-Analytics-/tree/main/PROJETO%20-%20ANALISE%20AÇÕES%20DO%20IBOVESPA" style="
