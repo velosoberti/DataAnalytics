@@ -7,10 +7,6 @@
 
 - This repository will include all my work and projects focused on objective and practical data analyses. Enjoy!
 
-
-
-Um Pouco sobre mim:
-
 - 🔭 I am currently working on Machine Learning and Data Analytics projects.
 
 - I bring my experience with Statistics and Machine Learning through mini-projects that aim to explore the complexity and variety of data in the world.
@@ -22,6 +18,31 @@ Um Pouco sobre mim:
 - Having worked in the data field for 3 years with various projects, I am starting my repository here. The idea of this repository is to showcase my skills.
 
 - 📘 Probability, Estimation, Hypothesis Testing, Regression, and Forecasting with Machine Learning will be some of the topics you'll find here today!
+
+
+# Projects:
+
+- Superstore  
+In this project, I am conducting a market study to evaluate a sales boom. The data is located in the folder in the file "Superstore.csv," collected from Kaggle. The aim of this project is a diagnostic analysis of this boom, and at the end, I apply a regression analysis to infer and determine the percentage change of the responsible variable.
+
+<a href="https://github.com/velosoberti/Data-Analytics-/tree/main/PROJETO%20-%20SUPERSTORE" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+">
+  Click Here
+</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
