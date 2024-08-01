@@ -1,8 +1,7 @@
 # Projects Focused on Data Analysis
 
-<h1 align="center">Hi 👋 Nice to meet you!</h1>
-<h3 align="center">Welcome to my page!</h3>
-<h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
+<h1 align="center">Hi 👋!</h1>
+<h4> Learning every a little more every day! 👌</h4>
 
 
 
