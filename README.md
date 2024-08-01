@@ -1,7 +1,6 @@
 # Projects Focused on Data Analysis
 
 <h1 align="center">Hi 👋!</h1>
-<h4> Learning every a little more every day! 👌</h4>
 
 
 
