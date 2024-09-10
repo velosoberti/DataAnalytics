@@ -131,6 +131,7 @@ The aim of this project is to analyze relationships and patterns in agricultural
 #
 
 - Study on real estate prices in São Paulo. Where is it cheaper and why?
+<p id="churn-analysis-for-a-telecom-company" /p>
 This project aims to explore a bit about real estate prices in the state of São Paulo. As my first project, it is somewhat simpler but still yields significant results. The data is also available in the folder and was sourced from Kaggle.
 
 
