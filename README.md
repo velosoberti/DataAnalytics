@@ -45,13 +45,13 @@
 
 #
 
-- Churn Analysis for a Telecom Company
+<h3 id="churn-analysis-for-a-telecom-company">Churn Analysis for a Telecom Company</h3>
 <p>This project focuses on analyzing customer churn for a telecom company. It is divided into six main parts.</p> <p><strong>First:</strong> We assess the scope of the problem. Is churn actually a significant issue for the company, or is it within acceptable limits?</p> <p><strong>Next,</strong> we explore whether demographic factors are influencing churn. Are certain customer segments more prone to canceling their services?</p> <p><strong>Third,</strong> we investigate whether the type of contract significantly affects churn. Does contract length or type play a role in customer retention?</p> <p><strong>Fourth,</strong> we examine the impact of payment methods. Could the choice of payment method increase the likelihood of a customer churning?</p> <p><strong>Fifth,</strong> we calculate the probability of churn for customers with a tenure of just one month. What are the early indicators of churn risk?</p> <p><strong>Finally,</strong> we build a machine learning model to predict churn. Unlike many projects that build multiple classifiers and choose the best through cross-validation, this project prioritizes speed and precision. We opted for a <strong>Random Forest</strong> model, fine-tuning parameters like `max_features`, `n_estimators`, and `ccp_alpha` for pruning. This resulted in a model with 90% accuracy and approximately 60% recall, without severe overfitting. The model not only performs well but also highlights the most influential factors driving churn.</p> <p>This approach helps the company continuously feed new data into the model and track the most critical variables contributing to customer churn.</p> <p align="center"> <a href="https://github.com/velosoberti/DataAnalytics/blob/main/PROJETO%20-%20ANÁLISE%20DE%20CHURN/PROJECT%20-%20CHURN%20ANALYSIS.ipynb" style=" display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border: 2px solid #800080; border-radius: 5px; text-decoration: none; "> Click Here </a> </p>
 
 
 #
 
-- Study of Ibovespa stocks in Brazil.
+<h3 id="study-of-ibovespa-stocks-in-brazil">Study of Ibovespa Stocks in Brazil</h3>
         <p>The project aims to evaluate stocks in the IBOVESPA index. This project has four parts.</p>
         <p><strong>First:</strong> We start with data selection. The raw data from the IBOVESPA includes over 810 columns divided into categories such as "CLOSE_", "VOL_", "HURST_", "POWER_", "PROB_".</p>
         <p><strong>Next,</strong> we process this data. Since close values only appear after 10 AM, we need to remove values before this time.</p>
@@ -84,7 +84,7 @@
 
 #
 
-- Superstore  
+- <h3 id="superstore-sales-analysis">Superstore Sales Analysis</h3>
 In this project, I am conducting a market study to evaluate a sales boom. The data is located in the folder in the file "Superstore.csv," collected from Kaggle. The aim of this project is a diagnostic analysis of this boom, and at the end, I apply a regression analysis to infer and determine the percentage change of the responsible variable.
 
 
@@ -107,7 +107,7 @@ In this project, I am conducting a market study to evaluate a sales boom. The da
 #
 
 
-- Brazilian agricultural studies  
+- <h3 id="brazilian-agricultural-studies">Brazilian Agricultural Studies</h3>
 The aim of this project is to analyze relationships and patterns in agricultural sector prices. The raw data is available and was sourced from Kaggle. In this study, it was important to address several questions such as:
 
 
@@ -130,7 +130,7 @@ The aim of this project is to analyze relationships and patterns in agricultural
 
 #
 
-- Study on real estate prices in São Paulo. Where is it cheaper and why?
+<h3 id="study-on-real-estate-prices-in-são-paulo">Study on Real Estate Prices in São Paulo. Where is it cheaper and why?</h3>
 <p id="churn-analysis-for-a-telecom-company" /p>
 This project aims to explore a bit about real estate prices in the state of São Paulo. As my first project, it is somewhat simpler but still yields significant results. The data is also available in the folder and was sourced from Kaggle.
 
