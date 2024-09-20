@@ -3,10 +3,6 @@
 
 <h3 align="center"> This repository will include all my work and projects focused on objective and practical data analyses. Enjoy! </h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" width="auto" height="auto" alt="GIF">
-</p>
-
 ##
 
 # **Projects:**
